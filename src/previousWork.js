@@ -33,7 +33,7 @@ class PreviousWork extends React.Component {
 
                 <div className="container right">
                     <div className="content">
-                        <h2>FILL IN - Mar 2016</h2>
+                        <h2>Jul 2016 - Mar 2017</h2>
                         <p>
                         Part Time Waiter at Han Chinese Cuisine Restaurant. Customer service, taking payments, restaurant maintenance. 
                         </p>
